@@ -1,8 +1,8 @@
 # `APP LIVE`
-  - [YT Clone](https://clone-a15ea.web.app/) 
+  - [AirBnB](https://clone-a15ea.web.app/) 
     
 # `SNEAKY PEAK`
-  - ![YT Snekay Peak](https://github.com/Kabi4/youtube-Clone-UI/blob/main/SneakyPeak.png) 
+  - ![AirBnB Snekay Peak](https://github.com/Kabi4/airBNB/blob/main/SneakyPeak.png)  
   
 # `BUILD INFO`
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
